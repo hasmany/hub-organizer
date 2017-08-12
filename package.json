@@ -1,0 +1,15 @@
+{
+  "name": "hub-front",
+  "version": "1.0.0",
+  "description": "hub-front is a web app used to organize a teams workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "node"
+  ],
+  "author": "Hubert Nguyen",
+  "license": "ISC"
+}
